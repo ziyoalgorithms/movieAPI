@@ -1,0 +1,1 @@
+from .test_movie_view_set import TestMovieIMDB, TestMovieSearch, test_movie_view_set_list_movie
